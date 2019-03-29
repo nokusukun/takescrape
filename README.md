@@ -8,7 +8,7 @@ Downloads images from `mangawin.takeshobo`, I guess.
 
 ## Usage
 ```
-> py takescrape.py bokudun 5
+> py takescrape.py
 Usage: takescrape.py manga(url manga name) chapter(omit for all chapters)
 Ex: py takescrape.py bokudun 1
 -- Note --
