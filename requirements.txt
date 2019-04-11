@@ -1,2 +1,3 @@
 requests
-pasrse
+parse
+pillow
