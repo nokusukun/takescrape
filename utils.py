@@ -58,7 +58,7 @@ def getChapter(manga, chapter):
         return False
     
     while page:
-        page.save(os.path.join(folder, f"{page_no:03}.jpg"))
+        page.save(os.path.join(folder, f"{page_no:03}.png"))
         page_no += 1
         page = getPage(manga, chapter, page_no)
     
